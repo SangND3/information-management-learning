@@ -1,0 +1,22 @@
+# ==== DỮ LIỆU SẢN XUẤT — KHÔNG ĐẨY LÊN GITHUB ====
+*.xlsx
+*.xls
+*.csv
+database/seed/data/
+**/raw-data/
+**/*BM10*
+**/*confidential*
+
+# SQL Server
+*.mdf
+*.ldf
+*.bak
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
